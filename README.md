@@ -8,6 +8,8 @@
 
 * [Module-3 Challenge](Module_3/ChallengeSubmission.md)
 
+* [Module-4 Challenge](Module_4/ChallengeSubmission.md)
+
 
 
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
