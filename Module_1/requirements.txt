@@ -1,0 +1,5 @@
+jupyterlab==3.2.5
+pip-chill==1.0.1
+pyarrow==6.0.1
+pympler==1.0
+streamlit==0.84.2
